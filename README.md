@@ -9,7 +9,7 @@ Hello, I'm Hutlaw. I'm a game developer and 3D modeler.
 He/Him
 
 ## Contact
-- Discord: HutlaW
-- Twitter: [TheHutlaW](https://twitter.com/TheHutlaW)
+- Discord: Hutlaw
+- Twitter: [TheHutlaW](https://twitter.com/TheHutlaw)
 
 For more information, check out [my website](https://hutlaw.github.io).
