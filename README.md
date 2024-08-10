@@ -10,7 +10,7 @@ He/Him
 
 ## Contact
 - Discord: Hutlaw
-- Twitter: [TheHutlaW](https://twitter.com/TheHutlaw)
+- Twitter: [TheHutlaw](https://twitter.com/TheHutlaw)
 
 For more information, check out [my website](https://hutlaw.github.io).
 
