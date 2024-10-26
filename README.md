@@ -7,12 +7,7 @@ Hello, I'm Hutlaw. While I started as a game developer and 3D modeler, I've rece
 
 ## Pronouns
 He/Him
-
-## Contact
-- Discord: Hutlaw
-- Twitter: [TheHutlaw](https://twitter.com/TheHutlaw)
-
-For more information, check out [my website](https://hutlaw.github.io).
+For more information, check out [my website](https://hutlaw.xyz/).
 
 ## Visitor Count
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hutlaw/hutlaw&title=Visitors)
